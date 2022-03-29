@@ -44,12 +44,12 @@ Hi, yes, I work as a web developer, but I think it will not be superfluous to le
         }
         return +results.reverse().join('')
     }
-    
+
 * * *
 
 ### Education
-1. College [http://pkgt.kz/index.php](PKGT)
-2. University [https://nkzu.kz/](NKZU)
+1. College [PKGT](http://pkgt.kz/index.php)
+2. University [NKZU](https://nkzu.kz/)
 * * *
 
 ### Language:
