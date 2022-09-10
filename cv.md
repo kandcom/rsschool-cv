@@ -48,8 +48,8 @@ Hi, yes, I work as a web developer, but I think it will not be superfluous to le
 
 * * *
 
-### Skills
-I work in a company [finnplay](https://www.finnplay.com/)
+### Work
+I work in a company [finnplay](https://www.finnplay.com/) on position FE-developer
 * * *
 
 ### Education
